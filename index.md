@@ -34,12 +34,12 @@ workshop:
 - Unsupervised skill discovery
 - Evaluation of unsupervised agents
 
-For question, please send us an email to
-[tarl@reinforcement-learning.ml](mailto:tarl@reinforcement-learning.ml).
+For question, please contact us at:
+[taskagnosticrl@gmail.com](mailto:taskagnosticrl@gmail.com)
 
 ## Important Dates
 
-Submission deadline: **29 March 2019** ([Anywhere on Earth][aoe]) <br>
+Submission deadline: **29 March 2019** ([AOE][aoe]) <br>
 Notification: **29 April 2019** <br>
 Camera ready: **04 May 2019** <br>
 Workshop: **06 May 2019**
@@ -59,16 +59,18 @@ workshop. This does not constitute an archival publication and no formal
 workshop proceedings will be made available, meaning contributors are free to
 publish their work at journals or conferences.
 
-Start a submission: [https://cmt3.research.microsoft.com/tarl2019](https://cmt3.research.microsoft.com/tarl2019)
+<p style="text-align: left">
+Start a submission: <a href="https://cmt3.research.microsoft.com/tarl2019">https://cmt3.research.microsoft.com/tarl2019</a>
+</p>
 
 ## Schedule
 
 | Time | Event |
 | ---- | ----- |
-| 08:45 | Introduction and opening remarks |
+| 08:45 | Introduction |
 | 09:00 | **Invited Talk 1** – TBD |
 | 09:30 | **Invited Talk 2** – TBD |
-| 10:00 | Poster Session 1 + Coffee Break |
+| 10:00 | Poster Session 1 *+ Coffee Break* |
 | 11:00 | **Contributed Talk 1** – TBD |
 | 11:20 | **Contributed Talk 2** – TBD |
 | 11:40 | **Contributed Talk 3** – TBD |
@@ -77,13 +79,16 @@ Start a submission: [https://cmt3.research.microsoft.com/tarl2019](https://cmt3.
 | 14:00 | **Contributed Talk 4** – TBD |
 | 14:20 | **Contributed Talk 5** – TBD |
 | 14:20 | **Contributed Talk 6** – TBD |
-| 15:00 | Poster Session 2 + Coffee Break |
+| 15:00 | Poster Session 2 *+ Coffee Break* |
 | 16:00 | **Invited Talk 4** – TBD |
 | 16:00 | **Invited Talk 5** – TBD |
 | 17:00 | Panel discussion |
 | 18:00 | End |
 
 ## Organizers
+
+For question, please contact us at:
+[taskagnosticrl@gmail.com](mailto:taskagnosticrl@gmail.com)
 
 <div class="organizers">
 {%- for organizer in site.data.organizers -%}

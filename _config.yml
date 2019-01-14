@@ -1,8 +1,11 @@
-title: 'ICLR 2019 TARL Workshop <br>Task-Agnostic Reinforcement Learning'
-description: 'Building agents that explore and learn in the absence of rewards'
+intro:
+title: Task-Agnostic Reinforcement Learning
+description:
+- Workshop at ICLR, 06 May 2019, New Orleans
+- Building agents that explore and learn in the absence of rewards
 buttons:
   Speakers: '#speakers'
   Dates: '#important-dates'
-  Submission: '#submission-instructions'
+  Submissions: '#submission-instructions'
   Schedule: '#schedule'
   Organizers: '#organizers'
