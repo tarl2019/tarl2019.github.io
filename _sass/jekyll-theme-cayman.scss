@@ -345,3 +345,30 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+
+.organizers {
+  text-align: left;
+
+  & > div {
+    display: inline-block;
+    max-width: 9em;
+    vertical-align: top;
+    margin: 0 1.5em 1em 0;
+    text-align: center;
+    line-height: 1em;
+
+    & > img {
+      width: 100%;
+      border-radius: .2em;
+    }
+
+    & > a {
+      display: inline-block;
+      padding: .3em 0 .2em;
+    }
+
+    & > span {
+      font-size: 0.85em;
+    }
+  }
+}

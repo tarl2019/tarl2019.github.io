@@ -1,5 +1,6 @@
 ---
 title: 'ICLR 2019 Task-Agnostic Reinforcement Learning Workshop'
+layout: default
 ---
 
 ## Abstract
@@ -84,14 +85,12 @@ Start a submission: [https://cmt3.research.microsoft.com/tarl2019](https://cmt3.
 
 ## Organizers
 
-- [Danijar Hafner](https://danijar.com/) (Google Brain & University of Toronto)
-- [Amy Zhang](https://mila.quebec/en/person/amy-zhang/) (Facebook AI Research & McGill University)
-- [Ahmed Touati](https://mila.quebec/en/person/touati-ahmed/) (University of Montreal)
-- [Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/) (UC Berkeley)
-- [Frederik Ebert](https://febert.github.io/) (UC Berkeley)
-- [Rowan McAllister](https://people.eecs.berkeley.edu/~rmcallister/) (UC Berkeley)
-- [Roberto Calandra](https://www.robertocalandra.com/about/) (Facebook AI Research)
-- [Marc G. Bellemare](http://www.marcgbellemare.info/) (Google Brain & McGill University)
-- [Raia Hadsell](http://raiahadsell.com/index.html) (DeepMind)
-- [Alessandro Lazaric](http://researchers.lille.inria.fr/~lazaric/Webpage/Home/Home.html) (Facebook AI Research)
-- [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/) (Facebook AI Research & McGill University)
+<div class="organizers">
+{%- for organizer in site.data.organizers -%}
+  <div>
+    <img src="{{ organizer.image }}" />
+    <a href="{{ organizer.url | relative_url }}">{{ organizer.name }}</a><br>
+    <span>{{ organizer.title | replace: '&', '<br>' }}</span>
+  </div>
+{%- endfor -%}
+</div>

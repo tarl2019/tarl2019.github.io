@@ -2,7 +2,6 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    {% seo title=false %}
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
@@ -12,7 +11,7 @@
     <section class="page-header">
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
-      {% for link in site.buttons: %}
+      {% for link in site.buttons %}
         <a href="{{ link[1] }}" class="btn">{{ link[0] }}</a>
       {% endfor %}
     </section>
