@@ -40,9 +40,9 @@ For question, please send us an email to
 ## Important Dates
 
 Submission deadline: **29 March 2019** ([Anywhere on Earth][aoe]) <br>
-Notification: **2019** <br>
+Notification: **29 April 2019** <br>
 Camera ready: **04 May 2019** <br>
-Workshop: **May 2019**
+Workshop: **06 May 2019**
 
 [aoe]: https://www.timeanddate.com/time/zones/aoe
 
