@@ -13,7 +13,7 @@ complex tasks. Moreover, attempts to do so frequently result in agents
 exploiting human error in the specification. To scale RL to the next level of
 difficulty, agents will have to learn autonomously in the absence of rewards.
 We define task-agnostic reinforcement learning (TARL) as learning in an
-environment without rewards to later qickly solve down-steam tasks. Active
+environment without rewards to later quickly solve down-steam tasks. Active
 research questions in TARL include designing objectives for intrinsic
 motivation and exploration, learning unsupervised task or goal spaces, global
 exploration, learning world models, and unsupervised skill discovery. The main
