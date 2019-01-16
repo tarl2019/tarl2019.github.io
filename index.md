@@ -3,7 +3,9 @@ title: 'ICLR 2019 Task-Agnostic Reinforcement Learning Workshop'
 layout: default
 ---
 
-## Abstract
+<style>thead { display: none; }</style>
+
+## Summary
 
 Many of the successes in deep learning build upon rich supervision.
 Reinforcement learning (RL) is no exception to this: algorithms for locomotion,
@@ -21,8 +23,10 @@ goal of this workshop is to bring together researchers in RL and investigate
 novel directions to learning task-agnostic representations with the objective
 of advancing the field towards more scalable and effective solutions in RL.
 
+<p style="text-align: left">
 We invite paper submissions in the following categories to present at the
 workshop:
+</p>
 
 - Unsupervised objectives for agents
 - Curiosity and intrinsic motivation
@@ -34,23 +38,27 @@ workshop:
 - Unsupervised skill discovery
 - Evaluation of unsupervised agents
 
+<p style="text-align: left">
 For question, please contact us at:
-[taskagnosticrl@gmail.com](mailto:taskagnosticrl@gmail.com)
-
-## Important Dates
-
-Submission deadline: **29 March 2019** ([AOE][aoe]) <br>
-Notification: **29 April 2019** <br>
-Camera ready: **04 May 2019** <br>
-Workshop: **06 May 2019**
-
-[aoe]: https://www.timeanddate.com/time/zones/aoe
+<a href="mailto:taskagnosticrl@gmail.com">taskagnosticrl@gmail.com</a>
+</p>
 
 ## Speakers
 
 Coming soon.
 
-## Submission instructions
+## Dates
+
+| Event | Date |
+| ----- | ---- |
+| Submission deadline | **29 March 2019** ([AOE][aoe]) |
+| Notifications | **29 April 2019** |
+| Camera ready | **04 May 2019** |
+| Workshop | **06 May 2019** |
+
+[aoe]: https://www.timeanddate.com/time/zones/aoe
+
+## Submissions
 
 Papers should be in ICLR style and **up to 5 pages**, with an unlimited number
 of pages for references and appendix. Accepted papers will be made available on
@@ -87,8 +95,10 @@ Start a submission: <a href="https://cmt3.research.microsoft.com/tarl2019">https
 
 ## Organizers
 
+<p style="text-align: left">
 For question, please contact us at:
-[taskagnosticrl@gmail.com](mailto:taskagnosticrl@gmail.com)
+<a href="mailto:taskagnosticrl@gmail.com">taskagnosticrl@gmail.com</a>
+</p>
 
 <div class="organizers">
 {%- for organizer in site.data.organizers -%}

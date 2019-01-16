@@ -5,7 +5,7 @@ description:
 - Building agents that explore and learn in the absence of rewards
 buttons:
   Speakers: '#speakers'
-  Dates: '#important-dates'
-  Submissions: '#submission-instructions'
+  Dates: '#dates'
+  Submissions: '#submissions'
   Schedule: '#schedule'
   Organizers: '#organizers'
