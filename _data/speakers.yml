@@ -1,0 +1,15 @@
+- name: Pierre-Yves Oudeyer
+  image: assets/faces/pierreyves.jpg
+  url: http://www.pyoudeyer.com/
+  title: Inria & Research Director
+  topics: lifelong learning, self organization, intrinsic motivation
+- name: Chelsea Finn
+  image: assets/faces/chelsea.jpg
+  url: http://people.eecs.berkeley.edu/~cbfinn/
+  title: Google, Berkeley, Stanford & Assistant Professor
+  topics: robotics, model-based RL, meta learning
+- name: Neil Bramley
+  image: assets/faces/neil.jpg
+  url: http://people.eecs.berkeley.edu/~cbfinn/
+  title: University of Edinburgh & Assistant Professor
+  topics: causality, active learning, discovery, control

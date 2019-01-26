@@ -34,7 +34,6 @@ workshop:
 - Model-based planning and exploration
 - Representation learning for planning
 - Learning unsupervised goal spaces
-- Automated curriculum generation
 - Unsupervised skill discovery
 - Evaluation of unsupervised agents
 
@@ -45,7 +44,18 @@ For question, please contact us at:
 
 ## Speakers
 
-Coming soon.
+The full list of speakers will be announced soon.
+
+<div style="text-align: left;">
+{%- for person in site.data.speakers -%}
+<div class="person">
+  <img src="{{ person.image }}" />
+  <a href="{{ person.url | relative_url }}">{{ person.name }}</a><br>
+  <span>{{ person.title | replace: '&', '<br>' }}</span>
+  <!--span>({{ person.topics }})</span-->
+</div>
+{%- endfor -%}
+</div>
 
 ## Dates
 
@@ -100,12 +110,12 @@ For question, please contact us at:
 <a href="mailto:taskagnosticrl@gmail.com">taskagnosticrl@gmail.com</a>
 </p>
 
-<div class="organizers">
-{%- for organizer in site.data.organizers -%}
-  <div>
-    <img src="{{ organizer.image }}" />
-    <a href="{{ organizer.url | relative_url }}">{{ organizer.name }}</a><br>
-    <span>{{ organizer.title | replace: '&', '<br>' }}</span>
-  </div>
+<div style="text-align: left;">
+{%- for person in site.data.organizers -%}
+<div class="person">
+  <img src="{{ person.image }}" />
+  <a href="{{ person.url | relative_url }}">{{ person.name }}</a><br>
+  <span>{{ person.title | replace: '&', '<br>' }}</span>
+</div>
 {%- endfor -%}
 </div>
