@@ -13,3 +13,8 @@
   url: http://www.bramleylab.ppls.ed.ac.uk/
   title: University of Edinburgh & Assistant Professor
   topics: causality, active learning, discovery, control
+- name: Doina Precup
+  image: assets/faces/doina.jpg
+  url: https://www.cs.mcgill.ca/~dprecup/
+  title: McGill, MILA, DeepMind & Professor
+  topics: RL, representations, uncertainty, planning
