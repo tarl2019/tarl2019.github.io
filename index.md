@@ -70,12 +70,12 @@ The full list of speakers will be announced soon.
 
 ## Submissions
 
-Papers should be in ICLR style and **up to 5 pages**, with an unlimited number
-of pages for references and appendix. Accepted papers will be made available on
-the workshop website and selected authors will be offered a 15 min talk at the
-workshop. This does not constitute an archival publication and no formal
-workshop proceedings will be made available, meaning contributors are free to
-publish their work at journals or conferences.
+Papers should be in anonymous ICLR style and **up to 5 pages**, with an
+unlimited number of pages for references and appendix. Accepted papers will be
+made available on the workshop website and selected authors will be offered a
+15 min talk at the workshop. This does not constitute an archival publication
+and no formal workshop proceedings will be made available, meaning contributors
+are free to publish their work at journals or conferences.
 
 <p style="text-align: left">
 Start a submission: <a href="https://cmt3.research.microsoft.com/tarl2019">https://cmt3.research.microsoft.com/tarl2019</a>
