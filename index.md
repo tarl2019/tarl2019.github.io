@@ -14,6 +14,7 @@ that guide the agent. But defining dense rewards becomes impractical for
 complex tasks. Moreover, attempts to do so frequently result in agents
 exploiting human error in the specification. To scale RL to the next level of
 difficulty, agents will have to learn autonomously in the absence of rewards.
+
 We define task-agnostic reinforcement learning (TARL) as learning in an
 environment without rewards to later quickly solve down-steam tasks. Active
 research questions in TARL include designing objectives for intrinsic
@@ -37,14 +38,7 @@ workshop:
 - Unsupervised skill discovery
 - Evaluation of unsupervised agents
 
-<p style="text-align: left">
-For question, please contact us at:
-<a href="mailto:taskagnosticrl@gmail.com">taskagnosticrl@gmail.com</a>
-</p>
-
 ## Speakers
-
-The full list of speakers will be announced soon.
 
 <div style="text-align: left;">
 {%- for person in site.data.speakers -%}
@@ -103,12 +97,21 @@ Start a submission: <a href="https://cmt3.research.microsoft.com/tarl2019">https
 | 17:00 | Panel discussion |
 | 18:00 | End |
 
-## Organizers
+## Sponsors
 
-<p style="text-align: left">
-For question, please contact us at:
-<a href="mailto:taskagnosticrl@gmail.com">taskagnosticrl@gmail.com</a>
-</p>
+We thank our sponsors for making this workshop possible:
+
+<div style="text-align: left;">
+{%- for sponsor in site.data.sponsors -%}
+<div class="sponsor">
+  <a href="{{ sponsor.url }}" target="_blank">
+    <img src="{{ sponsor.image }}" />
+  </a>
+</div>
+{%- endfor -%}
+</div>
+
+## Organizers
 
 <div style="text-align: left;">
 {%- for person in site.data.organizers -%}
@@ -119,3 +122,8 @@ For question, please contact us at:
 </div>
 {%- endfor -%}
 </div>
+
+<p style="text-align: left">
+For question, please contact us at:
+<a href="mailto:taskagnosticrl@gmail.com">taskagnosticrl@gmail.com</a>
+</p>
