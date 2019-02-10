@@ -1,3 +1,6 @@
 - name: DeepMind
   image: assets/logos/deepmind.png
   url: https://deepmind.com/
+- name: Facebook
+  image: assets/logos/face_book.png
+  url: https://research.fb.com/

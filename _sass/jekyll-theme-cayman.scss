@@ -402,6 +402,10 @@ a {
 .sponsor {
   display: inline-block;
   max-width: 15em;
-  vertical-align: top;
+  vertical-align: middle;
   margin: 0 1.5em 0 0;
+
+  & img {
+    max-height: 5em;
+  }
 }
