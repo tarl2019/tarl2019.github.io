@@ -40,7 +40,7 @@ workshop:
 
 ## Speakers
 
-<div style="text-align: left;">
+<div style="text-align: left; width: 112%;">
 {%- for person in site.data.speakers -%}
 <div class="person">
   <img src="{{ person.image }}" />
@@ -104,10 +104,10 @@ We thank our sponsors for making this workshop possible:
 | 13:30 | **Invited Talk 3** – TBD |
 | 14:00 | **Contributed Talk 4** – TBD |
 | 14:20 | **Contributed Talk 5** – TBD |
-| 14:20 | **Contributed Talk 6** – TBD |
+| 14:40 | **Contributed Talk 6** – TBD |
 | 15:00 | Poster Session 2 *+ Coffee Break* |
 | 16:00 | **Invited Talk 4** – TBD |
-| 16:00 | **Invited Talk 5** – TBD |
+| 16:30 | **Invited Talk 5** – TBD |
 | 17:00 | Panel discussion |
 | 18:00 | End |
 

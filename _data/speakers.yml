@@ -18,3 +18,8 @@
   url: https://www.cs.mcgill.ca/~dprecup/
   title: McGill, MILA, DeepMind & Professor
   topics: RL, representations, uncertainty, planning
+- name: Martin Riedmiller
+  image: assets/faces/martin.jpg
+  url: https://scholar.google.ca/citations?user=DdOazFIAAAAJ&hl=en
+  title: DeepMind & Research Scientist
+  topics: RL, continuous control, robotics
