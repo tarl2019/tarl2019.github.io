@@ -40,7 +40,7 @@ workshop:
 
 ## Speakers
 
-<div style="text-align: left; width: 112%;">
+<div style="text-align: left;">
 {%- for person in site.data.speakers -%}
 <div class="person">
   <img src="{{ person.image }}" />

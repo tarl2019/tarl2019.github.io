@@ -23,3 +23,8 @@
   url: https://scholar.google.ca/citations?user=DdOazFIAAAAJ&hl=en
   title: DeepMind & Research Scientist
   topics: RL, continuous control, robotics
+- name: Katja Hofmann
+  image: assets/faces/katja.jpg
+  url: https://scholar.google.com/citations?user=bHsjbLwAAAAJ&hl=en
+  title: Microsoft Research & Senior Researcher
+  topics: Minecraft, RL, ranking
