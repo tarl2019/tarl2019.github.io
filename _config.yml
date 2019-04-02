@@ -6,6 +6,6 @@ description:
 buttons:
   Speakers: '#speakers'
   Dates: '#dates'
-  Submissions: '#submissions'
   Schedule: '#schedule'
+  Submissions: '#submissions'
   Organizers: '#organizers'

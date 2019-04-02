@@ -62,19 +62,6 @@ workshop:
 
 [aoe]: https://www.timeanddate.com/time/zones/aoe
 
-## Submissions
-
-Papers should be in anonymous ICLR style and **up to 5 pages**, with an
-unlimited number of pages for references and appendix. Accepted papers will be
-made available on the workshop website and selected authors will be offered a
-15 min talk at the workshop. This does not constitute an archival publication
-and no formal workshop proceedings will be made available, meaning contributors
-are free to publish their work at journals or conferences.
-
-<p style="text-align: left">
-Start a submission: <a href="https://cmt3.research.microsoft.com/tarl2019">https://cmt3.research.microsoft.com/tarl2019</a>
-</p>
-
 ## Sponsors
 
 We thank our sponsors for making this workshop possible:
@@ -93,23 +80,44 @@ We thank our sponsors for making this workshop possible:
 
 | Time | Event |
 | ---- | ----- |
-| 08:45 | Introduction |
-| 09:00 | **Invited Talk 1** – TBD |
-| 09:30 | **Invited Talk 2** – TBD |
-| 10:00 | Poster Session 1 *+ Coffee Break* |
-| 11:00 | **Contributed Talk 1** – TBD |
-| 11:20 | **Contributed Talk 2** – TBD |
-| 11:40 | **Contributed Talk 3** – TBD |
-| 12:00 | *Lunch Break* |
-| 13:30 | **Invited Talk 3** – TBD |
-| 14:00 | **Contributed Talk 4** – TBD |
-| 14:20 | **Contributed Talk 5** – TBD |
-| 14:40 | **Contributed Talk 6** – TBD |
-| 15:00 | Poster Session 2 *+ Coffee Break* |
-| 16:00 | **Invited Talk 4** – TBD |
-| 16:30 | **Invited Talk 5** – TBD |
-| 17:00 | Panel discussion |
+| 09:45 | Opening |
+| 09:50 | **Invited talk** – [Martin Riedmiller][speakers] |
+| 10:20 | **Lightning talks** |
+| 10:30 | **Posters** + Coffee break |
+| 11:00 | **Invited talk** – [Chelsea Finn][speakers] |
+| 11:30 | **Invited talk** – [Doina Precup][speakers] |
+| 12:00 | **Contributed talk** – TBD |
+| 12:15 | **Contributed talk** – TBD |
+| 12:30 | **Invited talk** – [Katja Hofmann][speakers] |
+| 13:00 | Lunch break |
+| 15:20 | **Contributed talk** – TBD |
+| 15:35 | **Contributed talk** – TBD |
+| 15:50 | **Lightning talks** |
+| 16:00 | **Posters** + Coffee break |
+| 16:30 | **Invited talk** – [Pierre-Yves Oudeyer][speakers] |
+| 17:00 | **Invited talk** – [Neil Bramley][speakers] |
+| 17:30 | **Panel discussion** |
 | 18:00 | End |
+
+[speakers]: #speakers
+
+## Submissions
+
+Papers should be in anonymous ICLR style and **up to 5 pages**, with an
+unlimited number of pages for references and appendix. Accepted papers will be
+presented during our poster session and made available on the workshop website.
+Selected authors will be offered a 10 min talk at the workshop. This does not
+constitute an archival publication and no formal workshop proceedings will be
+made available, meaning contributors are free to publish their work at journals
+or conferences.
+
+<!--p style="text-align: left">
+Start a submission: <a href="https://cmt3.research.microsoft.com/tarl2019">https://cmt3.research.microsoft.com/tarl2019</a>
+</p-->
+
+Submissions are now closed. Thanks to everyone for submitting!
+
+Paper portal: <a href="https://cmt3.research.microsoft.com/tarl2019">https://cmt3.research.microsoft.com/tarl2019</a>
 
 ## Organizers
 
@@ -124,6 +132,6 @@ We thank our sponsors for making this workshop possible:
 </div>
 
 <p style="text-align: left">
-For question, please contact us at:
+For questions, please contact us at:
 <a href="mailto:taskagnosticrl@gmail.com">taskagnosticrl@gmail.com</a>
 </p>
