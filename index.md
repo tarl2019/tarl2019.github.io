@@ -56,7 +56,7 @@ workshop:
 | Event | Date |
 | ----- | ---- |
 | Submission deadline | **29 March 2019** (11:59 pm [AOE][aoe]) |
-| Notifications | **29 April 2019** |
+| Notifications | **23 April 2019** |
 | Camera ready | **04 May 2019** (11:59 pm [AOE][aoe]) |
 | Workshop | **06 May 2019** |
 
