@@ -119,6 +119,22 @@ Submissions are now closed. Thanks to everyone for submitting!
 
 Paper portal: <a href="https://cmt3.research.microsoft.com/tarl2019">https://cmt3.research.microsoft.com/tarl2019</a>
 
+## Accepted papers
+
+We've received many interesting and high-quality submissions, out of which we
+accepted 24 papers to be presented at our poster sessions. The order below was
+selected randomly and the PDFs will be made available here after the camera-ready
+date.
+
+<div style="text-align: left;">
+{%- for paper in site.data.papers -%}
+<div class="paper">
+  <h3>{{ paper.title }}</h3>
+  <p>{{ paper.authors }}</p>
+</div>
+{%- endfor -%}
+</div>
+
 ## Organizers
 
 <div style="text-align: left;">

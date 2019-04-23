@@ -403,10 +403,25 @@ a {
 .sponsor {
   display: inline-block;
   vertical-align: middle;
-  margin: 0 1.5em 0 0;
+  margin: 0 1.5em .8em 0;
 
   & img {
     display: block;
     max-height: 4em;
+  }
+}
+
+.paper {
+  line-height: 1;
+  border-left: .2em solid #606c71;
+  padding: .1em 0 .3em 1em;
+  margin: .6em 0;
+  h3 {
+    color: #606c71;
+    margin: 0 0 .3em;
+  }
+  p {
+    color: #aaa;
+    margin: 0;
   }
 }

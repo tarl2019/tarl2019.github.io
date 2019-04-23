@@ -7,5 +7,6 @@ buttons:
   Speakers: '#speakers'
   Dates: '#dates'
   Schedule: '#schedule'
-  Submissions: '#submissions'
+  # Submissions: '#submissions'
+  Papers: '#accepted-papers'
   Organizers: '#organizers'
