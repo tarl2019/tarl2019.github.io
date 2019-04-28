@@ -306,6 +306,7 @@ a {
   table {
     display: block;
     width: 100%;
+    text-align: left;
     overflow: auto;
     word-break: normal;
     word-break: keep-all; // For Firefox to horizontally scroll wider tables.

@@ -81,25 +81,35 @@ We thank our sponsors for making this workshop possible:
 | Time | Event |
 | ---- | ----- |
 | 09:45 | Opening |
-| 09:50 | **Invited talk** – [Martin Riedmiller][speakers] |
+| 09:50 | **Invited talk** – [Martin Riedmiller][martin] |
 | 10:20 | **Lightning talks** |
 | 10:30 | **Posters** + Coffee break |
-| 11:00 | **Invited talk** – [Chelsea Finn][speakers] |
-| 11:30 | **Invited talk** – [Doina Precup][speakers] |
-| 12:00 | **Contributed talk** – TBD |
-| 12:15 | **Contributed talk** – TBD |
-| 12:30 | **Invited talk** – [Katja Hofmann][speakers] |
+| 11:00 | **Invited talk** – [Chelsea Finn][chelsea] |
+| 11:30 | **Invited talk** – [Doina Precup][doina] |
+| 12:00 | **Contributed talk** – [Vitchyr Pong][vitchyr]: *Skew-Fit: State-Covering Self-Supervised Reinforcement Learning* |
+| 12:15 | **Contributed talk** – [Lisa Lee][lisa]: *State Marginal Matching with Mixtures of Policies* |
+| 12:30 | **Invited talk** – [Katja Hofmann][katja] |
 | 13:00 | Lunch break |
-| 15:20 | **Contributed talk** – TBD |
-| 15:35 | **Contributed talk** – TBD |
+| 15:20 | **Contributed talk** – [Corey Lynch][corey]: *Learning Latent Plans from Play Data* |
+| 15:35 | **Contributed talk** – [Hugo Caselles-Dupré][hugo]: *Symmetry-Based Disentangled Representation Learning requires Interaction with Environments* |
 | 15:50 | **Lightning talks** |
 | 16:00 | **Posters** + Coffee break |
-| 16:30 | **Invited talk** – [Pierre-Yves Oudeyer][speakers] |
-| 17:00 | **Invited talk** – [Neil Bramley][speakers] |
+| 16:30 | **Invited talk** – [Pierre-Yves Oudeyer][pierre]: *Curiosity-driven exploration of learned goal spaces: Discovering independently controllable features* |
+| 17:00 | **Invited talk** – [Neil Bramley][neil]: *Intuitive experimentation in human and artificial agents* |
 | 17:30 | **Panel discussion** |
 | 18:00 | End |
 
 [speakers]: #speakers
+[martin]: https://scholar.google.ca/citations?user=DdOazFIAAAAJ&hl=en
+[chelsea]: http://people.eecs.berkeley.edu/~cbfinn/
+[doina]: https://www.cs.mcgill.ca/~dprecup/
+[katja]: https://www.microsoft.com/en-us/research/people/kahofman/
+[pierre]: http://www.pyoudeyer.com/
+[neil]: https://www.bramleylab.ppls.ed.ac.uk/member/neil/
+[vitchyr]: http://people.eecs.berkeley.edu/~vitchyr/
+[lisa]: https://leelisa.com/
+[corey]: https://scholar.google.com/citations?user=CYWO-oAAAAAJ&hl=en
+[hugo]: https://sites.google.com/view/hugo-caselles-dupre
 
 ## Submissions
 
