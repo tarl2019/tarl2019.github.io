@@ -88,7 +88,7 @@ We thank our sponsors for making this workshop possible:
 | 11:30 | **Invited talk** – [Doina Precup][doina] |
 | 12:00 | **Contributed talk** – [Vitchyr Pong][vitchyr]: *Skew-Fit: State-Covering Self-Supervised Reinforcement Learning* |
 | 12:15 | **Contributed talk** – [Lisa Lee][lisa]: *State Marginal Matching with Mixtures of Policies* |
-| 12:30 | **Invited talk** – [Katja Hofmann][katja] |
+| 12:30 | **Invited talk** – [Katja Hofmann][katja]: *Directions and Challenges in Multi-Task Reinforcement Learning* |
 | 13:00 | Lunch break |
 | 15:20 | **Contributed talk** – [Corey Lynch][corey]: *Learning Latent Plans from Play Data* |
 | 15:35 | **Contributed talk** – [Hugo Caselles-Dupré][hugo]: *Symmetry-Based Disentangled Representation Learning requires Interaction with Environments* |
