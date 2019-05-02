@@ -81,7 +81,7 @@ We thank our sponsors for making this workshop possible:
 | Time | Event |
 | ---- | ----- |
 | 09:45 | Opening |
-| 09:50 | **Invited talk** – [Martin Riedmiller][martin] |
+| 09:50 | **Invited talk** – [Martin Riedmiller][martin]: *Internal reward predicates for task agnostic RL* |
 | 10:20 | **Lightning talks** |
 | 10:30 | **Posters** + Coffee break |
 | 11:00 | **Invited talk** – [Chelsea Finn][chelsea] |
