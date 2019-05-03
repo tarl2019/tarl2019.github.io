@@ -21,7 +21,7 @@
 - title: Variational State Encoding as Intrinsic Motivation in Reinforcement Learning
   authors: Martin Klissarov, Riashat Islam, Khimya Khetarpal, Doina Precup
 - title: Learning Latent Plans from Play Data
-  authors: Corey Lynch
+  authors: Corey Lynch, Mohi Khansari, Ted Xiao, Vikash Kumar, Jonathan Tompson, Sergey Levine, Pierre Sermanet
 - title: Exploration via Sample-Efficient Subgoal Design
   authors: Yijia Wang, Brian Bell, Matthias Poloczek, Daniel Jiang
 - title: Exploration via Flow-Based Intrinsic Rewards
