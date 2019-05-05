@@ -81,11 +81,11 @@ We thank our sponsors for making this workshop possible:
 | Time | Event |
 | ---- | ----- |
 | 09:45 | Opening |
-| 09:50 | **Invited talk** – [Martin Riedmiller][martin]: *Internal reward predicates for task agnostic RL* |
+| 09:50 | **Invited talk** – [Martin Riedmiller][martin]: *Internal Reward Predicates for Task Agnostic RL* |
 | 10:20 | **Lightning talks** |
 | 10:30 | **Posters** + Coffee break |
-| 11:00 | **Invited talk** – [Chelsea Finn][chelsea] |
-| 11:30 | **Invited talk** – [Doina Precup][doina] |
+| 11:00 | **Invited talk** – [Chelsea Finn][chelsea]: *To be announced* |
+| 11:30 | **Invited talk** – [Doina Precup][doina]: *Generalized Value Functions: Knowledge Representation for RL agents* |
 | 12:00 | **Contributed talk** – [Vitchyr Pong][vitchyr]: *Skew-Fit: State-Covering Self-Supervised Reinforcement Learning* |
 | 12:15 | **Contributed talk** – [Lisa Lee][lisa]: *State Marginal Matching with Mixtures of Policies* |
 | 12:30 | **Invited talk** – [Katja Hofmann][katja]: *Directions and Challenges in Multi-Task Reinforcement Learning* |
