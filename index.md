@@ -40,6 +40,8 @@ workshop:
 
 ## Speakers
 
+Please submit questions for our panel discussion: <a href="https://forms.gle/F41KfB9ANka5kkuJ8 ">https://forms.gle/F41KfB9ANka5kkuJ8</a>
+
 <div style="text-align: left;">
 {%- for person in site.data.speakers -%}
 <div class="person">
