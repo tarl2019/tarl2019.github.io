@@ -40,8 +40,6 @@ workshop:
 
 ## Speakers
 
-Please submit questions for our panel discussion: <a href="https://forms.gle/F41KfB9ANka5kkuJ8 ">https://forms.gle/F41KfB9ANka5kkuJ8</a>
-
 <div style="text-align: left;">
 {%- for person in site.data.speakers -%}
 <div class="person">
@@ -66,7 +64,9 @@ Please submit questions for our panel discussion: <a href="https://forms.gle/F41
 
 ## Sponsors
 
+<p style="text-align: left">
 We thank our sponsors for making this workshop possible:
+</p>
 
 <div style="text-align: left;">
 {%- for sponsor in site.data.sponsors -%}
@@ -79,6 +79,11 @@ We thank our sponsors for making this workshop possible:
 </div>
 
 ## Schedule
+
+<p style="text-align: left">
+Please find our recorded livestream here:
+<a href="https://slideslive.com/38915490/r09-taskagnostic-reinforcement-learning">https://slideslive.com/38915490/r09-taskagnostic-reinforcement-learning</a>
+</p>
 
 | Time | Event |
 | ---- | ----- |
@@ -127,16 +132,19 @@ or conferences.
 Start a submission: <a href="https://cmt3.research.microsoft.com/tarl2019">https://cmt3.research.microsoft.com/tarl2019</a>
 </p-->
 
+<p style="text-align: left">
 Submissions are now closed. Thanks to everyone for submitting!
+</p>
 
+<p style="text-align: left">
 Paper portal: <a href="https://cmt3.research.microsoft.com/tarl2019">https://cmt3.research.microsoft.com/tarl2019</a>
+</p>
 
 ## Accepted papers
 
 We've received many interesting and high-quality submissions, out of which we
 accepted 24 papers to be presented at our poster sessions. The order below was
-selected randomly and the PDFs will be made available here after the camera-ready
-date.
+selected randomly and the PDFs will be made available here shortly.
 
 <div style="text-align: left;">
 {%- for paper in site.data.papers -%}
