@@ -82,7 +82,7 @@ We thank our sponsors for making this workshop possible:
 
 <p style="text-align: left">
 Please find our recorded livestream here:
-<a href="https://slideslive.com/38915490/r09-taskagnostic-reinforcement-learning">https://slideslive.com/38915490/r09-taskagnostic-reinforcement-learning</a>
+<a href="https://slideslive.com/iclr/iclr-2019-r09-taskagnostic-reinforcement-learning-tarl">https://slideslive.com/iclr/iclr-2019-r09-taskagnostic-reinforcement-learning-tarl</a>
 </p>
 
 | Time | Event |
