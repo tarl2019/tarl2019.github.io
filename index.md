@@ -149,7 +149,7 @@ selected randomly and the PDFs will be made available here shortly.
 <div style="text-align: left;">
 {%- for paper in site.data.papers -%}
 <div class="paper">
-  <h3>{{ paper.title }}</h3>
+  <h3><a href="/assets/papers/{{ paper.id }}.pdf" target="_blank">{{ paper.title }}</a></h3>
   <p>{{ paper.authors }}</p>
 </div>
 {%- endfor -%}

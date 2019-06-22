@@ -1,48 +1,72 @@
 - title: State Marginal Matching with Mixtures of Policies
   authors: Lisa Lee, Emilio Parisotto, Ben Eysenbach, Ruslan Salakhutdinov, Sergey Levine
+  id: lee2019state
 - title: Generalized Skill Learning, Safety, and Exploration with Flow-Based Models
   authors: Alvin Zhang
+  id: zhang2019generalized
 - title: Reinforcement Learning with Unknown Reward Functions
   authors: Ben Eysenbach, Jacob Tyo, Shixiang Gu, Ruslan Salakhutdinov, Zachary Lipton, Sergey Levine
+  id: eysenbach2019reinforcement
 - title: Planning with Goal-Conditioned Policies
   authors: Soroush Nasiriany, Vitchyr Pong, Sergey Levine
+  id: nasiriany2019planning
 - title: Continual and Multi-Task Reinforcement Learning with Shared Episodic Memory
   authors: Artem Sorokin, Mikhail Burtsev
+  id: sorokin2019continual
 - title: A Self-Supervised Method for Mapping Instructions to Robot Policies
   authors: Hsin-Wei Yu, Po-Yu Wu, Chih-An Tsao, You-An Shen, Shih-Hsuan Lin, Zhang-Wei Hong, Yi-Hsiang Chang, Chun-Yi Lee
+  id: yu2019selfsupervised
 - title: Dynamics-Aware Unsupervised Skill Learning
   authors: Archit Sharma, Shixiang Gu, Karol Hausman, Sergey Levine, Vikash Kumar
+  id: sharma2019dynamicsaware
 - title: Hierarchical Policy Learning is Sensitive to Goal Space Design
   authors: Zach Dwiel, Madhavun Candadai, Mariano Phielipp, Arjun Bansal
+  id: dwiel2019hierarchical
 - title: Unsupervised Discovery of Decision States through Intrinsic Control
   authors: Nirbhay Modhe, Mohit Sharma, Prithvijit Chattopadhyay, Abhishek Das, Devi Parikh, Dhruv Batra, Ramakrishna Vedantam
+  id: modhe2019unsupervised
 - title: Insights on Visual Representations for Embodied Navigation Tasks
   authors: Erik Wijmans, Julian Straub, Dhruv Batra, Judy Hoffman, Ari Morcos
+  id: wijmans2019insights
 - title: Variational State Encoding as Intrinsic Motivation in Reinforcement Learning
   authors: Martin Klissarov, Riashat Islam, Khimya Khetarpal, Doina Precup
+  id: klissarov2019variational
 - title: Learning Latent Plans from Play Data
   authors: Corey Lynch, Mohi Khansari, Ted Xiao, Vikash Kumar, Jonathan Tompson, Sergey Levine, Pierre Sermanet
+  id: lynch2019learning
 - title: Exploration via Sample-Efficient Subgoal Design
   authors: Yijia Wang, Brian Bell, Matthias Poloczek, Daniel Jiang
+  id: wang2019exploration
 - title: Exploration via Flow-Based Intrinsic Rewards
   authors: Hsuan-Kung Yang, Po-Han Chiang, Min-Fong Hong, Chun-Yi Lee
+  id: yang2019exploration
 - title: Learning to Plan via Neural Exploration-Exploitation Trees
   authors: Binghong Chen, Bo Dai, Le Song
+  id: chen2019learning
 - title: 'KeyIn: Discovering Subgoal Structure with Keyframe-based Video Prediction'
   authors: Karl Pertsch, Oleh Rybkin, Jingyun Yang, Konstantinos Derpanis, Joseph Lim, Kostas Daniilidis, Andrew Jaegle
+  id: pertsch2019keyin
 - title: Task-Agnostic Constraining in Average Reward POMDPs
   authors: Guido Montufar, Johannes Rauh, Nihat Ay
+  id: montufar2019taskagnostic
 - title: Learning Robotic Manipulation Through Visual Planning and Acting
   authors: Angelina Wang, Thanard Kurutach, Kara Liu, Aviv Tamar, Pieter Abbeel
+  id: wang2019learning
 - title: Automatic Curriculum Generation Via Task Perturbations For Reinforcement Learning
   authors: Srinivas Venkattaramanujam, Riashat Islam, Doina Precup
+  id: venkattaramanujam2019automatic
 - title: Symmetry-Based Disentangled Representation Learning requires Interaction with Environments
   authors: Hugo Caselles-Dupré, David Filliat, Michael Garcia Ortiz
+  id: casellesdupre2019symmetrybased
 - title: 'Control What You Can: Intrinsically Motivated Reinforcement Learner with Task Planning Structure'
   authors: Sebastian Blaes, Marin Vlastelica, Jia-Jie Zhu, Georg Martius
+  id: blaes2019control
 - title: Training Dynamics Models for Accurate Long-Horizon Prediction
   authors: Ethan Knight, Joshua Achiam
+  id: knight2019training
 - title: 'Skew-Fit: State-Covering Self-Supervised Reinforcement Learning'
   authors: Vitchyr Pong, Murtaza Dalal, Steven Lin, Ashvin Nair, Shikhar Bahl, Sergey Levine
+  id: pong2019skewfit
 - title: Unsupervised Representation Learning by Latent Plans
   authors: Ge Yang, Amy Zhang, Ari Morcos, Roberto Calandra
+  id: yang2019unsupervised
